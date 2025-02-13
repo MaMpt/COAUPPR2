@@ -1,0 +1,14 @@
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\bin\Debug\net8.0\Prak2_.exe
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\bin\Debug\net8.0\Prak2_.deps.json
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\bin\Debug\net8.0\Prak2_.runtimeconfig.json
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\bin\Debug\net8.0\Prak2_.dll
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\bin\Debug\net8.0\Prak2_.pdb
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\Prak2_.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\Prak2_.AssemblyInfoInputs.cache
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\Prak2_.AssemblyInfo.cs
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\Prak2_.csproj.CoreCompileInputs.cache
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\Prak2_.dll
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\refint\Prak2_.dll
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\Prak2_.pdb
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\Prak2_.genruntimeconfig.cache
+D:\MPT\C# ОАиП\Проекты\Prak2_\Prak2_\obj\Debug\net8.0\ref\Prak2_.dll

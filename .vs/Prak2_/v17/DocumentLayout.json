@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MPT\\C# \u041E\u0410\u0438\u041F\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Prak2_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C7CE61C-6C26-4386-AD66-41D3E32C7FBB}|Prak2_\\Prak2_.csproj|d:\\mpt\\c# \u043E\u0430\u0438\u043F\\\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\prak2_\\prak2_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C7CE61C-6C26-4386-AD66-41D3E32C7FBB}|Prak2_\\Prak2_.csproj|solutionrelative:prak2_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\MPT\\C# \u041E\u0410\u0438\u041F\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Prak2_\\Prak2_\\Program.cs",
+              "RelativeDocumentMoniker": "Prak2_\\Program.cs",
+              "ToolTip": "D:\\MPT\\C# \u041E\u0410\u0438\u041F\\\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\Prak2_\\Prak2_\\Program.cs",
+              "RelativeToolTip": "Prak2_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T11:32:13.724Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
